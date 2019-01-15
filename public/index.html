@@ -1,0 +1,268 @@
+<head>
+    <title>Image Analysis</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="/siofu/client.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <style>
+
+        .image1 {
+            display:none;
+            visibility: hidden;
+        }
+
+        .image2 {
+            height: 400px;
+            width: 400px;
+        }
+
+        .canvas {
+            position: absolute;
+            background-color: transparent;
+            outline-style: dotted;
+            outline-color: coral;
+        }
+    </style>
+</head>
+<body>
+    <!-- Title Section -->
+<div class="container" id="HeaderDiv">
+    <h1>Image Analysis</h1>
+    <div class="container">
+        <button id="btn_play" class="btn btn-primary" disabled=true onclick = playAudio()> Play Audio</button>
+        <p id = 'statusBar'>YOU SHOULDN'T SEE THIS</p>
+    </div>
+</div>
+<br>
+
+    <!-- Input Section -->
+<div class="container" id="InputDiv">
+    <div class="input-group">
+        <span class="input-group-addon" id="basic-addon1">Upload</span>
+        <p><input class = "form-control" type="file" id="upload_input"/></p>
+    </div>
+</div>
+
+    <!-- Canvas Section -->
+<div class="container" id='CanvasDiv' align="center">
+    <img class="image1" id="testImage" src = "http://localhost:8000/saved/SCAN0007-19.JPG">
+    <canvas id="mycanvas1" width="400" height="400"
+            style="border:1px solid #000000; background: transparent;">
+
+    </canvas>
+    <canvas id="mycanvas2" width="400" height="400"
+            style="border:1px solid #000000; background: transparent;">
+    </canvas>
+</div>
+<br>
+
+    <!-- Output Status Section-->
+<div class = 'container' id = 'StatusDiv'>
+    <ol class="list-group" id="orderedList">
+    </ol>
+</div>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script type="text/javascript">
+
+
+
+
+
+    // inits
+    var j = 0;
+    var ogHeight = 0;
+    var ogWidth = 0;
+    var lst_face = [];
+
+    // intial src for audio file
+    var pathSound = "http://localhost:8000/statusResponse.wav";
+
+    // function to add ordered list elements for each face
+    function add(data){
+        /*
+        * @param data[0]: string of the face information.
+        * @param data[1]: integer of face.
+        * */
+        var newli =  document.createElement("li");
+        newli.removeAttribute('onmouseover');
+        newli.removeAttribute('onmouseout');
+        newli.appendChild(document.createTextNode(data[0]));
+        newli.setAttribute("class","list-group");
+        newli.setAttribute("onmouseover",'magnify('+data[1]+')');
+        newli.setAttribute("onmouseout",'demagnify('+data[1]+')');
+
+        document.getElementById("orderedList").appendChild(newli)
+    }
+
+    // function to clear the list when new information arrives
+    function clear(data){
+        /*
+        * @param data: string of the number of faces.
+        * */
+        document.getElementById("orderedList").innerHTML = data;
+    }
+
+    // function to highlight desired faces when hovering over list elements
+    function magnify(data){
+        /*
+        * @param data: integer of the face.
+        * */
+        var x;
+        for(x = 0; x<lst_face.length;x++) {
+            if(x === data){
+                lst_face[x].s = 7
+            } else {
+                lst_face[x].s = 2
+            }
+        }
+        // redraw shapes
+        updateCanvas()
+    }
+
+    // function to return the dashed rectangle back to normal for all faces
+    function demagnify(data){
+        /*
+        * @param data: integer of the face we moved from.
+        * */
+        var x;
+        for(x = 0;x<lst_face.length;x++){
+            lst_face[x].s = 2
+        }
+        //redraw shapes
+        updateCanvas()
+    }
+
+    //add events
+    document.addEventListener("DOMContentLoaded", function(){
+
+        // Initialize instances:
+        var socket = io.connect();
+        var siofu = new SocketIOFileUpload(socket);
+
+        // Configure the way that SocketIOFileUpload can read files:
+        siofu.listenOnInput(document.getElementById("upload_input"));
+
+        // Do something on upload progress:
+        siofu.addEventListener("progress", function(event){
+            var percent = event.bytesLoaded / event.file.size * 100;
+            console.log("File is", percent.toFixed(2), "percent loaded");
+        });
+
+        // Do something when a file is uploaded:
+        siofu.addEventListener("complete", function(event){
+            alert(event.file.name + " is uploaded at /saved");
+            document.getElementById("btn_play").disabled = true;
+        });
+
+        // keep the client up to date
+        socket.on('status', function(data){
+            document.getElementById("statusBar").innerHTML = data;
+        });
+
+        // Image displays on html page
+        socket.on('filename', function(data) {
+            lst_face.length = 0;
+            var canv1 = document.getElementById('mycanvas1');
+            var canv2 = document.getElementById('mycanvas2');
+            var canv1_ctx = canv1.getContext('2d');
+            var canv2_ctx = canv2.getContext('2d');
+            var image = document.getElementById('testImage');
+            document.getElementById('testImage').src = data;
+
+            image.onload = function() {
+                ogHeight = image.height;
+                ogWidth = image.width;
+                canv1_ctx.drawImage(document.getElementById("testImage"),0,0,400,400);
+                //canv2_ctx.drawImage(document.getElementById("testImage"),0,0,400,400);
+
+            };
+
+
+        });
+
+        // Showing data for different faces
+        socket.on('face', function(face) {
+            var i;
+            var numImages = 1;
+            var numFaces = Object.keys(face.images[0].faces).length;
+            var container = document.getElementById("mycanvas2");
+            container.innerHTML = '';
+            container.innerHTML += '<p class="canvas" id="canVar"></p>';
+            lst_face = [];
+            clear("<b>The image has "+numFaces+" face(s).</b>");
+            document.getElementById("btn_play").disabled = false;
+
+            // refreshing the audio file in cache
+            pathSound = "http://localhost:8000/statusResponse.wav?" +j;
+            j++;
+
+            // representing the response for the faces within the image
+            for (i = 0; i < numFaces; i++) {
+                // for face squares
+                container.innerHTML += '<canvas class="canvas" id="canVar"></canvas>';
+
+                // each of the location digits have to be proportionally changed to fit 400x400
+                var h = face.images[numImages - 1].faces[i].face_location.height*400 / ogHeight;
+                var w = face.images[numImages - 1].faces[i].face_location.width*400 / ogWidth;
+                var l = face.images[numImages - 1].faces[i].face_location.left*400 / ogWidth;
+                var t = face.images[numImages - 1].faces[i].face_location.top*400 / ogHeight;
+
+                // add face to list
+                lst_face.push({l: l, t: t, w: w, h: h, s: 2});
+
+                // for string
+                var gender = face.images[numImages - 1].faces[i].gender.gender;
+                var avgAge = ((face.images[numImages - 1].faces[i].age.max) +
+                    (face.images[numImages - 1].faces[i].age.min)) / 2;
+
+                // add to ordered list
+                add(["Face number " + (i + 1) + " is a " + gender + " and the average age is " + avgAge + ".",i])
+            }
+
+            //draw shapes
+            updateCanvas()
+        });
+    }, false);
+
+
+    //Play the audio file as a new Audio
+    function playAudio() {
+        var response = new Audio(pathSound);
+        response.play();
+    }
+
+    function updateCanvas(){
+        //i number of faces, f face[i]
+        var i,f;
+
+        // canvas to draw on
+        var canv = document.getElementById('mycanvas2');
+        var ctx = canv.getContext('2d');
+
+        //clear the canvas
+        ctx.clearRect(0,0,400,400);
+
+        //draw the original image first
+        ctx.beginPath();
+        ctx.drawImage(document.getElementById("testImage"),0,0,400,400);
+        ctx.closePath();
+
+        // for each face, draw a dashed rectangle
+        for (i = 0; i < lst_face.length; i++){
+            f = lst_face[i];
+            ctx.beginPath();
+            ctx.lineWidth = f.s;
+            ctx.setLineDash([5, 10]);
+            ctx.rect(f.l,f.t,f.w,f.h);
+            ctx.closePath();
+            ctx.stroke()
+        }
+    }
+</script>
+</body>

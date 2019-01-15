@@ -1,0 +1,435 @@
+2018-05-20T10:23:17.144Z8bje8oGAWMisFvPaAAAA -- Client Joined
+2018-05-20T10:23:24.682ZfUDlFhiHW-OUPi3EAAAB -- Client Joined
+2018-05-20T10:23:43.896ZfUDlFhiHW-OUPi3EAAAB -- Error in File Upload
+2018-05-21T00:28:57.647ZyIOt3jVGEN0QXW-SAAAA -- Client Joined
+2018-05-21T00:29:12.896ZyIOt3jVGEN0QXW-SAAAA -- Error in File Upload
+2018-05-21T00:29:32.590ZyIOt3jVGEN0QXW-SAAAA -- Error in File Upload
+2018-05-21T00:29:57.009ZyIOt3jVGEN0QXW-SAAAA -- File Uploaded from Client
+2018-05-21T00:29:57.009ZyIOt3jVGEN0QXW-SAAAApublic\saved\SCAN0007.JPG2018-05-21T00:29:57.009Z -- Analysis Start
+2018-05-21T00:30:13.129Z -- Analysis Complete <br/>2018-05-21T00:30:13.130Z -- Turning Response into Speech
+2018-05-21T00:30:13.134ZyIOt3jVGEN0QXW-SAAAA -- Response Sent to Client
+ 
+2018-05-21T00:34:00.885ZUuj-2Jyfm1LZkqn3AAAB -- Client Joined
+2018-05-21T00:34:12.334ZUuj-2Jyfm1LZkqn3AAAB -- File Uploaded from Client
+2018-05-21T00:34:12.334ZUuj-2Jyfm1LZkqn3AAABpublic\saved\SCAN0007-0.JPG2018-05-21T00:34:12.334Z -- Analysis Start
+2018-05-21T00:34:28.398Z -- Analysis Complete <br/>2018-05-21T00:34:28.398Z -- Turning Response into Speech
+2018-05-21T00:34:28.401ZUuj-2Jyfm1LZkqn3AAAB -- Response Sent to Client
+ 
+2018-05-21T00:35:21.774ZiKmBcQy2YXW1HTrFAAAC -- Client Joined
+2018-05-21T00:35:25.034ZiKmBcQy2YXW1HTrFAAAC -- File Uploaded from Client
+2018-05-21T00:35:25.034ZiKmBcQy2YXW1HTrFAAACpublic\saved\SCAN0007-1.JPG2018-05-21T00:35:25.034Z -- Analysis Start
+2018-05-21T00:35:41.725Z -- Analysis Complete <br/>2018-05-21T00:35:41.725Z -- Turning Response into Speech
+2018-05-21T00:35:41.726ZiKmBcQy2YXW1HTrFAAAC -- Response Sent to Client
+ 
+2018-05-21T00:35:49.852Z_FT1j_re2wFttiNEAAAD -- Client Joined
+2018-05-21T00:35:53.456Z_FT1j_re2wFttiNEAAAD -- File Uploaded from Client
+2018-05-21T00:35:53.456Z_FT1j_re2wFttiNEAAADpublic\saved\SCAN0007-2.JPG2018-05-21T00:35:53.456Z -- Analysis Start
+2018-05-21T00:36:09.767Z -- Analysis Complete <br/>2018-05-21T00:36:09.767Z -- Turning Response into Speech
+2018-05-21T00:36:09.769Z_FT1j_re2wFttiNEAAAD -- Response Sent to Client
+ 
+2018-05-21T00:40:04.774ZKcwBMtZGSC8cD6AVAAAE -- Client Joined
+2018-05-21T00:40:08.463ZKcwBMtZGSC8cD6AVAAAE -- File Uploaded from Client
+2018-05-21T00:40:08.463ZKcwBMtZGSC8cD6AVAAAEpublic\saved\SCAN0007-3.JPG2018-05-21T00:40:08.463Z -- Analysis Start
+2018-05-21T00:40:24.793Z -- Analysis Complete <br/>2018-05-21T00:40:24.793Z -- Turning Response into Speech
+2018-05-21T00:40:24.800ZKcwBMtZGSC8cD6AVAAAE -- Response Sent to Client
+ 
+2018-05-21T00:41:36.628Zy46zOz4bQS4p4NUYAAAF -- Client Joined
+2018-05-21T00:41:41.475Zy46zOz4bQS4p4NUYAAAF -- File Uploaded from Client
+2018-05-21T00:41:41.475Zy46zOz4bQS4p4NUYAAAFpublic\saved\SCAN0007-4.JPG2018-05-21T00:41:41.476Z -- Analysis Start
+2018-05-21T00:41:54.448Z -- Analysis Complete <br/>2018-05-21T00:41:54.449Z -- Turning Response into Speech
+2018-05-21T00:41:54.450Zy46zOz4bQS4p4NUYAAAF -- Response Sent to Client
+ 
+2018-05-21T00:43:10.692Z1XiZY-uJxLFWf_SvAAAG -- Client Joined
+2018-05-21T00:43:13.918Z1XiZY-uJxLFWf_SvAAAG -- File Uploaded from Client
+2018-05-21T00:43:13.918Z1XiZY-uJxLFWf_SvAAAGpublic\saved\SCAN0006.JPG2018-05-21T00:43:13.918Z -- Analysis Start
+2018-05-21T00:43:21.218Z -- Analysis Complete <br/>2018-05-21T00:43:21.218Z -- Turning Response into Speech
+2018-05-21T00:43:21.220Z1XiZY-uJxLFWf_SvAAAG -- Response Sent to Client
+ 
+2018-05-21T00:44:28.717Z-pM4dBTStTTkqCj6AAAH -- Client Joined
+2018-05-21T00:44:43.956Zg8kCQE4RToMdLZZBAAAI -- Client Joined
+2018-05-21T00:44:47.722Zg8kCQE4RToMdLZZBAAAI -- File Uploaded from Client
+2018-05-21T00:44:47.722Zg8kCQE4RToMdLZZBAAAIpublic\saved\IMG_1203.JPG2018-05-21T00:44:47.723Z -- Analysis Start
+2018-05-21T00:45:14.198Z -- Analysis Complete <br/>2018-05-21T00:45:14.198Z -- Turning Response into Speech
+2018-05-21T00:45:14.199Zg8kCQE4RToMdLZZBAAAI -- Response Sent to Client
+ 
+2018-05-21T00:47:15.431ZNih0iyfcA0ns60bfAAAJ -- Client Joined
+2018-05-21T00:47:20.079ZNih0iyfcA0ns60bfAAAJ -- File Uploaded from Client
+2018-05-21T00:47:20.079ZNih0iyfcA0ns60bfAAAJpublic\saved\SCAN0006-0.JPG2018-05-21T00:47:20.079Z -- Analysis Start
+2018-05-21T00:47:28.026Z -- Analysis Complete <br/>2018-05-21T00:47:28.026Z -- Turning Response into Speech
+2018-05-21T00:47:28.027ZNih0iyfcA0ns60bfAAAJ -- Response Sent to Client
+ 
+2018-05-21T01:16:49.412ZasC3nj3Q_COELNfTAAAK -- Client Joined
+2018-05-21T01:16:53.407ZasC3nj3Q_COELNfTAAAK -- File Uploaded from Client
+2018-05-21T01:16:53.407ZasC3nj3Q_COELNfTAAAKpublic\saved\SCAN0007-5.JPG2018-05-21T01:16:53.407Z -- Analysis Start
+2018-05-21T01:17:07.159Z -- Analysis Complete <br/>2018-05-21T01:17:07.159Z -- Turning Response into Speech
+2018-05-21T01:17:07.161ZasC3nj3Q_COELNfTAAAK -- Response Sent to Client
+ 
+2018-05-21T01:18:20.863ZiHlOUEG4EauUlWG3AAAL -- Client Joined
+2018-05-21T01:18:24.527ZiHlOUEG4EauUlWG3AAAL -- File Uploaded from Client
+2018-05-21T01:18:24.528ZiHlOUEG4EauUlWG3AAALpublic\saved\SCAN0007-6.JPG2018-05-21T01:18:24.528Z -- Analysis Start
+2018-05-21T01:18:41.413Z -- Analysis Complete <br/>2018-05-21T01:18:41.413Z -- Turning Response into Speech
+2018-05-21T01:18:41.415ZiHlOUEG4EauUlWG3AAAL -- Response Sent to Client
+ 
+2018-05-21T01:22:49.849ZS4mvi5lfEJC9jicXAAAM -- Client Joined
+2018-05-21T01:22:54.286ZS4mvi5lfEJC9jicXAAAM -- File Uploaded from Client
+2018-05-21T01:22:54.286ZS4mvi5lfEJC9jicXAAAMpublic\saved\SCAN0006-1.JPG2018-05-21T01:22:54.286Z -- Analysis Start
+2018-05-21T01:23:00.641Z -- Analysis Complete <br/>2018-05-21T01:23:00.641Z -- Turning Response into Speech
+2018-05-21T01:23:00.642ZS4mvi5lfEJC9jicXAAAM -- Response Sent to Client
+ 
+2018-05-21T01:24:04.573ZJGW_Bx4aLxvJyvwpAAAN -- Client Joined
+2018-05-21T01:24:13.199ZJGW_Bx4aLxvJyvwpAAAN -- File Uploaded from Client
+2018-05-21T01:24:13.199ZJGW_Bx4aLxvJyvwpAAANpublic\saved\SCAN0007-7.JPG2018-05-21T01:24:13.200Z -- Analysis Start
+2018-05-21T01:24:27.422Z -- Analysis Complete <br/>2018-05-21T01:24:27.422Z -- Turning Response into Speech
+2018-05-21T01:24:27.423ZJGW_Bx4aLxvJyvwpAAAN -- Response Sent to Client
+ 
+2018-05-21T01:27:09.641Zv3nbaq-LDpeyxTBHAAAO -- Client Joined
+2018-05-21T01:27:13.583Zv3nbaq-LDpeyxTBHAAAO -- File Uploaded from Client
+2018-05-21T01:27:13.583Zv3nbaq-LDpeyxTBHAAAOpublic\saved\SCAN0006-2.JPG2018-05-21T01:27:13.583Z -- Analysis Start
+2018-05-21T01:27:20.938Z -- Analysis Complete <br/>2018-05-21T01:27:20.938Z -- Turning Response into Speech
+2018-05-21T01:27:20.939Zv3nbaq-LDpeyxTBHAAAO -- Response Sent to Client
+ 
+2018-05-21T01:28:08.218ZV6A7KupZU4uEsfLHAAAP -- Client Joined
+2018-05-21T01:28:14.356ZV6A7KupZU4uEsfLHAAAP -- File Uploaded from Client
+2018-05-21T01:28:14.356ZV6A7KupZU4uEsfLHAAAPpublic\saved\IMG_1203-0.JPG2018-05-21T01:28:14.356Z -- Analysis Start
+2018-05-21T01:28:40.364Z -- Analysis Complete <br/>2018-05-21T01:28:40.364Z -- Turning Response into Speech
+2018-05-21T01:28:40.366ZV6A7KupZU4uEsfLHAAAP -- Response Sent to Client
+ 
+2018-05-21T01:30:15.607ZmkcPT9mF3EEzCtZJAAAQ -- Client Joined
+2018-05-21T01:30:37.926Zxc1paI9deoZMrrelAAAR -- Client Joined
+2018-05-21T01:31:10.577ZQDIGAXv0aSfsyc-vAAAS -- Client Joined
+2018-05-21T01:33:46.108ZHScypLFtNo47j0a4AAAT -- Client Joined
+2018-05-21T01:36:25.088Z1uFt9zgOHE8Bvuo4AAAU -- Client Joined
+2018-05-21T01:43:01.848ZQPgN8EHnDNaz3r9jAAAV -- Client Joined
+2018-05-21T01:48:48.907ZI_v7treXW_Fq1a2ZAAAW -- Client Joined
+2018-05-21T01:49:30.310Z30ww304injjrImwtAAAX -- Client Joined
+2018-05-21T01:49:33.851ZRce0i6nnGNqEyFtwAAAY -- Client Joined
+2018-05-21T01:50:06.505ZaQNFsuhy9_Rb5iL0AAAZ -- Client Joined
+2018-05-21T01:50:17.148ZzVNEp3X3L1qnPmYmAAAa -- Client Joined
+2018-05-21T01:54:28.324ZL1ERcmWGmcq_U6BnAAAb -- Client Joined
+2018-05-21T02:02:04.472Z-DdjXi_xChIWFcM-AAAc -- Client Joined
+2018-05-21T02:02:11.105Z-DdjXi_xChIWFcM-AAAc -- File Uploaded from Client
+2018-05-21T02:02:11.105Z-DdjXi_xChIWFcM-AAAcpublic\saved\IMG_1203-1.JPG2018-05-21T02:02:11.105Z -- Analysis Start
+2018-05-21T02:02:39.419Z -- Analysis Complete <br/>2018-05-21T02:02:39.419Z -- Turning Response into Speech
+2018-05-21T02:02:39.420Z-DdjXi_xChIWFcM-AAAc -- Response Sent to Client
+ 
+2018-05-21T02:05:36.853ZCP_SV0-jDs_9KuAlAAAA -- Client Joined
+2018-05-21T02:05:40.115Zw7p6Ilp6-RQyfhXcAAAB -- Client Joined
+2018-05-21T02:05:43.165Zw7p6Ilp6-RQyfhXcAAAB -- File Uploaded from Client
+2018-05-21T02:06:00.684ZjgkbfmyZ_Ebls4eWAAAA -- Client Joined
+2018-05-21T02:06:07.340ZjgkbfmyZ_Ebls4eWAAAA -- File Uploaded from Client
+2018-05-21T02:06:07.340ZjgkbfmyZ_Ebls4eWAAAApublic\saved\IMG_1203-2.JPG2018-05-21T02:07:53.844ZWAe8lnD1pKMWl9uAAAAB -- Client Joined
+2018-05-21T02:07:57.120ZWAe8lnD1pKMWl9uAAAAB -- File Uploaded from Client
+2018-05-21T02:07:57.120ZWAe8lnD1pKMWl9uAAAABpublic\saved\SCAN0007-9.JPG2018-05-21T02:11:20.802Z3cgYiUJfzJz5OaOcAAAC -- Client Joined
+2018-05-21T02:11:23.948Z3cgYiUJfzJz5OaOcAAAC -- File Uploaded from Client
+2018-05-21T02:11:23.949Z3cgYiUJfzJz5OaOcAAACpublic\saved\IMG_1203-3.JPG2018-05-21T02:16:55.060ZH-M-IRmbO7OZLncwAAAD -- Client Joined
+2018-05-21T02:16:57.518ZH-M-IRmbO7OZLncwAAAD -- File Uploaded from Client
+2018-05-21T02:16:57.518ZH-M-IRmbO7OZLncwAAADpublic\saved\SCAN0007-10.JPG2018-05-21T02:18:01.112Z6FIKLCtqJ5FrxLfrAAAE -- Client Joined
+2018-05-21T02:18:03.918Z6FIKLCtqJ5FrxLfrAAAE -- File Uploaded from Client
+2018-05-21T02:18:03.918Z6FIKLCtqJ5FrxLfrAAAEpublic\saved\SCAN0007-11.JPG2018-05-21T02:18:07.415ZJTbPKYAIKQXjg4O_AAAF -- Client Joined
+2018-05-21T02:18:07.681ZMkt6dhPU2xQYaDkrAAAG -- Client Joined
+2018-05-21T02:18:07.867ZDwdYdgzbDbyrj3-4AAAH -- Client Joined
+2018-05-21T02:18:08.160ZimayVD-fp6R1RJS0AAAI -- Client Joined
+2018-05-21T02:18:08.440ZBW9yR5NzXUWDjPSwAAAJ -- Client Joined
+2018-05-21T02:18:08.708Zkm17gopednNcdWBqAAAK -- Client Joined
+2018-05-21T02:18:08.988ZSU1oJk63dbKZiiL9AAAL -- Client Joined
+2018-05-21T02:18:09.264ZtUS3GbVY_CUZTOKWAAAM -- Client Joined
+2018-05-21T02:18:09.434Zh39YXL4iob6TtEwpAAAN -- Client Joined
+2018-05-21T02:21:10.672ZOwEb-O59WcLDDeSIAAAO -- Client Joined
+2018-05-21T02:21:13.563ZOwEb-O59WcLDDeSIAAAO -- File Uploaded from Client
+2018-05-21T02:21:13.563ZOwEb-O59WcLDDeSIAAAOpublic\saved\SCAN0007-12.JPG2018-05-21T02:22:25.632Zsd_ZG5CJBZCuGiQvAAAP -- Client Joined
+2018-05-21T02:22:29.015Zsd_ZG5CJBZCuGiQvAAAP -- File Uploaded from Client
+2018-05-21T02:22:29.015Zsd_ZG5CJBZCuGiQvAAAPpublic\saved\IMG_1203-4.JPG2018-05-21T02:24:31.659Zdsah9RhhdSv175lyAAAQ -- Client Joined
+2018-05-21T02:25:05.156ZtanHoVMJqsRuebRRAAAR -- Client Joined
+2018-05-21T02:25:10.929ZtanHoVMJqsRuebRRAAAR -- File Uploaded from Client
+2018-05-21T02:25:10.929ZtanHoVMJqsRuebRRAAARpublic\saved\IMG_1203-5.JPG2018-05-21T02:26:01.977Z9H2CJlVnpTprvrAoAAAS -- Client Joined
+2018-05-21T02:26:08.836Z9H2CJlVnpTprvrAoAAAS -- File Uploaded from Client
+2018-05-21T02:26:08.836Z9H2CJlVnpTprvrAoAAASpublic\saved\IMG_1203-6.JPG2018-05-21T02:27:57.796Z8L1Krjl_kv4QvXaOAAAT -- Client Joined
+2018-05-21T02:28:02.037Z8L1Krjl_kv4QvXaOAAAT -- File Uploaded from Client
+2018-05-21T02:28:02.037Z8L1Krjl_kv4QvXaOAAATpublic\saved\IMG_1203-7.JPG2018-05-21T02:28:22.095ZTkdk7jiAeMrJR1eMAAAU -- Client Joined
+2018-05-21T02:28:25.173ZTkdk7jiAeMrJR1eMAAAU -- File Uploaded from Client
+2018-05-21T02:28:25.173ZTkdk7jiAeMrJR1eMAAAUpublic\saved\IMG_1203-8.JPG2018-05-21T02:30:20.912Z0oMOtcYd16x66v9dAAAV -- Client Joined
+2018-05-21T02:30:24.667Z0oMOtcYd16x66v9dAAAV -- File Uploaded from Client
+2018-05-21T02:30:24.667Z0oMOtcYd16x66v9dAAAVpublic\saved\IMG_1203-9.JPG2018-05-21T02:31:39.179ZSmUNkHRuQDDnecoVAAAW -- Client Joined
+2018-05-21T02:31:43.233ZSmUNkHRuQDDnecoVAAAW -- File Uploaded from Client
+2018-05-21T02:31:43.234ZSmUNkHRuQDDnecoVAAAWpublic\saved\IMG_1203-10.JPG2018-05-21T02:32:14.595Z0OrnfXva0YfymEjCAAAX -- Client Joined
+2018-05-21T02:34:55.647Z-Cb-AdQScQ455DMmAAAY -- Client Joined
+2018-05-21T02:36:45.157ZTmWKBeXloEnDInDlAAAZ -- Client Joined
+2018-05-21T02:37:27.214ZDnWFybad8wQcU9vUAAAa -- Client Joined
+2018-05-21T02:37:34.907ZiA5J-tsiszZDPyyxAAAb -- Client Joined
+2018-05-21T02:37:50.734ZMEZbrnS3g5vpq1IBAAAc -- Client Joined
+2018-05-21T02:37:59.440ZII1vFiy_lhqvTCsUAAAd -- Client Joined
+2018-05-21T02:38:06.981ZII1vFiy_lhqvTCsUAAAd -- File Uploaded from Client
+2018-05-21T02:38:06.981ZII1vFiy_lhqvTCsUAAAdpublic\saved\IMG_1203-11.JPG2018-05-21T02:40:05.742ZII1vFiy_lhqvTCsUAAAd -- File Uploaded from Client
+2018-05-21T02:40:05.742ZII1vFiy_lhqvTCsUAAAdpublic\saved\IMG_1203-12.JPG2018-05-21T02:40:16.462ZII1vFiy_lhqvTCsUAAAd -- File Uploaded from Client
+2018-05-21T02:40:16.462ZII1vFiy_lhqvTCsUAAAdpublic\saved\IMG_1204.JPG2018-05-21T02:42:20.415ZII1vFiy_lhqvTCsUAAAd -- File Uploaded from Client
+2018-05-21T02:42:20.415ZII1vFiy_lhqvTCsUAAAdpublic\saved\IMG_1204-0.JPG2018-05-21T02:42:36.809ZteNK-rN6haAhzdPyAAAe -- Client Joined
+2018-05-21T02:42:40.071ZteNK-rN6haAhzdPyAAAe -- File Uploaded from Client
+2018-05-21T02:42:40.071ZteNK-rN6haAhzdPyAAAepublic\saved\SCAN0007-13.JPG2018-05-21T02:43:11.159Z7YA6Ttz66XMeOXwOAAAf -- Client Joined
+2018-05-21T02:43:18.964Z7YA6Ttz66XMeOXwOAAAf -- File Uploaded from Client
+2018-05-21T02:43:18.964Z7YA6Ttz66XMeOXwOAAAfpublic\saved\SCAN0007-14.JPG2018-05-21T02:44:14.437Z7YA6Ttz66XMeOXwOAAAf -- File Uploaded from Client
+2018-05-21T02:44:14.437Z7YA6Ttz66XMeOXwOAAAfpublic\saved\IMG_1204-1.JPG2018-05-21T02:46:21.524ZXAf5pYdkA2sGuUnOAAAg -- Client Joined
+2018-05-21T02:46:26.735ZXAf5pYdkA2sGuUnOAAAg -- File Uploaded from Client
+2018-05-21T02:46:26.735ZXAf5pYdkA2sGuUnOAAAgpublic\saved\SCAN0007-15.JPG2018-05-21T02:46:42.569ZSswyg6ej_Y_kWQz_AAAh -- Client Joined
+2018-05-21T02:46:47.353ZSswyg6ej_Y_kWQz_AAAh -- File Uploaded from Client
+2018-05-21T02:46:47.353ZSswyg6ej_Y_kWQz_AAAhpublic\saved\SCAN0007-16.JPG2018-05-21T03:25:23.572ZInrOaAB6Wmoo5LfnAAAA -- Client Joined
+2018-05-21T03:25:28.809Z95Oak8kK_giS17ezAAAB -- Client Joined
+2018-05-21T03:25:33.468Z95Oak8kK_giS17ezAAAB -- File Uploaded from Client
+2018-05-21T03:25:33.468Z95Oak8kK_giS17ezAAABpublic\saved\SCAN0007-17.JPG2018-05-21T03:25:33.469Z -- Analysis Start
+2018-05-21T03:25:47.883Z -- Analysis Complete <br/>2018-05-21T03:25:47.883Z -- Turning Response into Speech
+2018-05-21T03:25:47.889Z95Oak8kK_giS17ezAAAB -- Response Sent to Client
+ 
+2018-05-21T03:27:30.955Z0XY9pPDxtklIQ4uGAAAC -- Client Joined
+2018-05-21T03:27:34.421Z0XY9pPDxtklIQ4uGAAAC -- File Uploaded from Client
+2018-05-21T03:27:34.421Z0XY9pPDxtklIQ4uGAAACpublic\saved\SCAN0007-18.JPG2018-05-21T03:27:34.421Z -- Analysis Start
+2018-05-21T03:27:49.462Z -- Analysis Complete <br/>2018-05-21T03:27:49.463Z -- Turning Response into Speech
+2018-05-21T03:27:49.464Z0XY9pPDxtklIQ4uGAAAC -- Response Sent to Client
+ 
+2018-05-21T03:28:11.185ZHCZHYTqvo5LOOjQTAAAD -- Client Joined
+2018-05-21T03:28:14.072ZHCZHYTqvo5LOOjQTAAAD -- File Uploaded from Client
+2018-05-21T03:28:14.072ZHCZHYTqvo5LOOjQTAAADpublic\saved\SCAN0007-19.JPG2018-05-21T03:28:14.073Z -- Analysis Start
+2018-05-21T03:28:28.987Z -- Analysis Complete <br/>2018-05-21T03:28:28.987Z -- Turning Response into Speech
+2018-05-21T03:28:28.990ZHCZHYTqvo5LOOjQTAAAD -- Response Sent to Client
+ 
+2018-05-21T03:32:31.079ZR_1EvdXnz5xZ28sFAAAE -- Client Joined
+2018-05-21T03:32:37.996ZR_1EvdXnz5xZ28sFAAAE -- File Uploaded from Client
+2018-05-21T03:32:37.996ZR_1EvdXnz5xZ28sFAAAEpublic\saved\SCAN0007-20.JPG2018-05-21T03:32:37.996Z -- Analysis Start
+2018-05-21T03:32:51.995Z -- Analysis Complete <br/>2018-05-21T03:32:51.995Z -- Turning Response into Speech
+2018-05-21T03:32:51.996ZR_1EvdXnz5xZ28sFAAAE -- Response Sent to Client
+ 
+2018-05-21T03:36:00.008Z3Wqx_Mu2_4PP-5fFAAAF -- Client Joined
+2018-05-21T03:36:33.120ZZJqlDUeEmRJkHfNTAAAG -- Client Joined
+2018-05-21T03:36:40.055ZFOuOroKha0EApCOxAAAH -- Client Joined
+2018-05-21T03:36:49.324ZD_GLOPnlDATFW-qaAAAI -- Client Joined
+2018-05-21T03:43:04.044Zxpzha0cJwMsbGh_BAAAJ -- Client Joined
+2018-05-21T03:43:33.198Zrk4aUe0fCUYa4KOtAAAK -- Client Joined
+2018-05-21T03:43:40.064Zrk4aUe0fCUYa4KOtAAAK -- File Uploaded from Client
+2018-05-21T03:43:40.064Zrk4aUe0fCUYa4KOtAAAKpublic\saved\SCAN0007-21.JPG2018-05-21T03:43:40.064Z -- Analysis Start
+2018-05-21T03:43:55.903Z -- Analysis Complete <br/>2018-05-21T03:43:55.904Z -- Turning Response into Speech
+2018-05-21T03:43:55.910Zrk4aUe0fCUYa4KOtAAAK -- Response Sent to Client
+ 
+2018-05-21T03:45:29.319Z6vzaBydmjaYyhLxgAAAL -- Client Joined
+2018-05-21T03:45:32.363Z6vzaBydmjaYyhLxgAAAL -- File Uploaded from Client
+2018-05-21T03:45:32.363Z6vzaBydmjaYyhLxgAAALpublic\saved\SCAN0007-22.JPG2018-05-21T03:45:32.364Z -- Analysis Start
+2018-05-21T03:45:46.079Z -- Analysis Complete <br/>2018-05-21T03:45:46.079Z -- Turning Response into Speech
+2018-05-21T03:45:46.080Z6vzaBydmjaYyhLxgAAAL -- Response Sent to Client
+ 
+2018-05-21T03:49:56.213Zs-q-W7ShohU9smIvAAAM -- Client Joined
+2018-05-21T03:50:10.474Zs-q-W7ShohU9smIvAAAM -- File Uploaded from Client
+2018-05-21T03:50:10.474Zs-q-W7ShohU9smIvAAAMpublic\saved\SCAN0007-23.JPG2018-05-21T03:50:10.474Z -- Analysis Start
+2018-05-21T03:50:27.687Z -- Analysis Complete <br/>2018-05-21T03:50:27.687Z -- Turning Response into Speech
+2018-05-21T03:50:27.688Zs-q-W7ShohU9smIvAAAM -- Response Sent to Client
+ 
+2018-05-21T03:53:00.634ZLDoLAXHeiA4tDL8LAAAN -- Client Joined
+2018-05-21T03:53:04.295ZLDoLAXHeiA4tDL8LAAAN -- File Uploaded from Client
+2018-05-21T03:53:04.295ZLDoLAXHeiA4tDL8LAAANpublic\saved\SCAN0007-24.JPG2018-05-21T03:53:04.295Z -- Analysis Start
+2018-05-21T03:53:21.325Z -- Analysis Complete <br/>2018-05-21T03:53:21.325Z -- Turning Response into Speech
+2018-05-21T03:53:21.328ZLDoLAXHeiA4tDL8LAAAN -- Response Sent to Client
+ 
+2018-05-21T03:54:53.019ZSdZMBoW9mUP3fpZYAAAO -- Client Joined
+2018-05-21T03:54:57.170ZSdZMBoW9mUP3fpZYAAAO -- File Uploaded from Client
+2018-05-21T03:54:57.170ZSdZMBoW9mUP3fpZYAAAOpublic\saved\SCAN0007-25.JPG2018-05-21T03:54:57.170Z -- Analysis Start
+2018-05-21T03:55:11.796Z -- Analysis Complete <br/>2018-05-21T03:55:11.796Z -- Turning Response into Speech
+2018-05-21T03:55:11.796ZSdZMBoW9mUP3fpZYAAAO -- Response Sent to Client
+ 
+2018-05-21T03:56:16.516ZhHlSzcbXpPYOhhHBAAAP -- Client Joined
+2018-05-21T03:56:21.073ZhHlSzcbXpPYOhhHBAAAP -- File Uploaded from Client
+2018-05-21T03:56:21.073ZhHlSzcbXpPYOhhHBAAAPpublic\saved\SCAN0007-26.JPG2018-05-21T03:56:21.073Z -- Analysis Start
+2018-05-21T03:56:34.706Z -- Analysis Complete <br/>2018-05-21T03:56:34.707Z -- Turning Response into Speech
+2018-05-21T03:56:34.708ZhHlSzcbXpPYOhhHBAAAP -- Response Sent to Client
+ 
+2018-05-21T03:57:47.644ZOM0pxxl8I7wRJ80yAAAQ -- Client Joined
+2018-05-21T03:57:54.671ZOM0pxxl8I7wRJ80yAAAQ -- File Uploaded from Client
+2018-05-21T03:57:54.672ZOM0pxxl8I7wRJ80yAAAQpublic\saved\SCAN0007-27.JPG2018-05-21T03:57:54.672Z -- Analysis Start
+2018-05-21T03:58:10.248Z -- Analysis Complete <br/>2018-05-21T03:58:10.248Z -- Turning Response into Speech
+2018-05-21T03:58:10.249ZOM0pxxl8I7wRJ80yAAAQ -- Response Sent to Client
+ 
+2018-05-21T03:58:17.966ZB8LgquBKuJBulZDpAAAR -- Client Joined
+2018-05-21T03:58:42.607Zvca8kasfgeYPkHpMAAAS -- Client Joined
+2018-05-21T03:59:06.029Zeu0gTzCjkpohpyg4AAAT -- Client Joined
+2018-05-21T03:59:08.452ZZCE6-7_Id1dqPQJCAAAU -- Client Joined
+2018-05-21T03:59:54.876ZiHC7ZJRoIg4JhHBCAAAV -- Client Joined
+2018-05-21T04:00:01.361ZiHC7ZJRoIg4JhHBCAAAV -- File Uploaded from Client
+2018-05-21T04:00:01.361ZiHC7ZJRoIg4JhHBCAAAVpublic\saved\IMG_1203-13.JPG2018-05-21T04:00:01.361Z -- Analysis Start
+2018-05-21T04:00:28.498Z -- Analysis Complete <br/>2018-05-21T04:00:28.498Z -- Turning Response into Speech
+2018-05-21T04:00:28.499ZiHC7ZJRoIg4JhHBCAAAV -- Response Sent to Client
+ 
+2018-05-21T04:01:03.569ZXlCDUFilgqOvJcvZAAAW -- Client Joined
+2018-05-21T04:02:26.934ZeFBEWjrKUmrTu3GjAAAX -- Client Joined
+2018-05-21T04:02:31.696Z2e_o-6OT9l3OlqBWAAAY -- Client Joined
+2018-05-21T04:02:36.574Zcq3JTv0fjsAunMrUAAAZ -- Client Joined
+2018-05-21T04:09:00.432ZH1G2zLC3CtPMGIBgAAAa -- Client Joined
+2018-05-21T04:09:04.004ZH1G2zLC3CtPMGIBgAAAa -- File Uploaded from Client
+2018-05-21T04:09:04.004ZH1G2zLC3CtPMGIBgAAAapublic\saved\SCAN0007-28.JPG2018-05-21T04:09:04.005Z -- Analysis Start
+2018-05-21T04:09:16.440Z -- Analysis Complete <br/>2018-05-21T04:09:16.440Z -- Turning Response into Speech
+2018-05-21T04:09:16.442ZH1G2zLC3CtPMGIBgAAAa -- Response Sent to Client
+ 
+2018-05-21T04:11:16.683ZkD3x-SbHoXx0stLSAAAb -- Client Joined
+2018-05-21T04:11:19.064ZkD3x-SbHoXx0stLSAAAb -- File Uploaded from Client
+2018-05-21T04:11:19.064ZkD3x-SbHoXx0stLSAAAbpublic\saved\SCAN0007-29.JPG2018-05-21T04:11:19.065Z -- Analysis Start
+2018-05-21T04:11:33.339Z -- Analysis Complete <br/>2018-05-21T04:11:33.339Z -- Turning Response into Speech
+2018-05-21T04:11:33.343ZkD3x-SbHoXx0stLSAAAb -- Response Sent to Client
+ 
+2018-05-21T04:13:11.508ZtKFz6JQygqz6GUTjAAAc -- Client Joined
+2018-05-21T04:13:14.735ZtKFz6JQygqz6GUTjAAAc -- File Uploaded from Client
+2018-05-21T04:13:14.735ZtKFz6JQygqz6GUTjAAAcpublic\saved\SCAN0007-30.JPG2018-05-21T04:13:14.735Z -- Analysis Start
+2018-05-21T04:13:29.974Z -- Analysis Complete <br/>2018-05-21T04:13:29.974Z -- Turning Response into Speech
+2018-05-21T04:13:29.975ZtKFz6JQygqz6GUTjAAAc -- Response Sent to Client
+ 
+2018-05-21T04:13:40.630ZtKFz6JQygqz6GUTjAAAc -- File Uploaded from Client
+2018-05-21T04:13:40.630ZtKFz6JQygqz6GUTjAAAcpublic\saved\SCAN0006-3.JPG2018-05-21T04:13:40.630Z -- Analysis Start
+2018-05-21T04:13:48.009Z -- Analysis Complete <br/>2018-05-21T04:13:48.009Z -- Turning Response into Speech
+2018-05-21T04:13:48.010ZtKFz6JQygqz6GUTjAAAc -- Response Sent to Client
+ 
+2018-05-21T04:16:09.088ZY9lEQ4PVGajYB5qhAAAd -- Client Joined
+2018-05-21T04:16:12.502ZY9lEQ4PVGajYB5qhAAAd -- File Uploaded from Client
+2018-05-21T04:16:12.502ZY9lEQ4PVGajYB5qhAAAdpublic\saved\SCAN0007-31.JPG2018-05-21T04:16:12.503Z -- Analysis Start
+2018-05-21T04:16:26.375Z -- Analysis Complete <br/>2018-05-21T04:16:26.375Z -- Turning Response into Speech
+2018-05-21T04:16:26.376ZY9lEQ4PVGajYB5qhAAAd -- Response Sent to Client
+ 
+2018-05-21T04:16:29.955ZY9lEQ4PVGajYB5qhAAAd -- File Uploaded from Client
+2018-05-21T04:16:29.955ZY9lEQ4PVGajYB5qhAAAdpublic\saved\SCAN0006-4.JPG2018-05-21T04:16:29.955Z -- Analysis Start
+2018-05-21T04:16:37.737Z -- Analysis Complete <br/>2018-05-21T04:16:37.737Z -- Turning Response into Speech
+2018-05-21T04:16:37.739ZY9lEQ4PVGajYB5qhAAAd -- Response Sent to Client
+ 
+2018-05-21T04:17:53.332ZoPlgB0lbnqSWEWdUAAAe -- Client Joined
+2018-05-21T04:17:57.321ZoPlgB0lbnqSWEWdUAAAe -- File Uploaded from Client
+2018-05-21T04:17:57.321ZoPlgB0lbnqSWEWdUAAAepublic\saved\SCAN0007-32.JPG2018-05-21T04:17:57.321Z -- Analysis Start
+2018-05-21T04:18:12.371Z -- Analysis Complete <br/>2018-05-21T04:18:12.371Z -- Turning Response into Speech
+2018-05-21T04:18:12.373ZoPlgB0lbnqSWEWdUAAAe -- Response Sent to Client
+ 
+2018-05-21T04:18:16.774ZoPlgB0lbnqSWEWdUAAAe -- File Uploaded from Client
+2018-05-21T04:18:16.774ZoPlgB0lbnqSWEWdUAAAepublic\saved\SCAN0006-5.JPG2018-05-21T04:18:16.774Z -- Analysis Start
+2018-05-21T04:18:24.228Z -- Analysis Complete <br/>2018-05-21T04:18:24.228Z -- Turning Response into Speech
+2018-05-21T04:18:24.229ZoPlgB0lbnqSWEWdUAAAe -- Response Sent to Client
+ 
+2018-05-21T04:19:34.894Z-3aCfh-grvFIgOCvAAAf -- Client Joined
+2018-05-21T04:19:37.986Z-3aCfh-grvFIgOCvAAAf -- File Uploaded from Client
+2018-05-21T04:19:37.986Z-3aCfh-grvFIgOCvAAAfpublic\saved\SCAN0007-33.JPG2018-05-21T04:19:37.987Z -- Analysis Start
+2018-05-21T04:19:55.762Z -- Analysis Complete <br/>2018-05-21T04:19:55.762Z -- Turning Response into Speech
+2018-05-21T04:19:55.764Z-3aCfh-grvFIgOCvAAAf -- Response Sent to Client
+ 
+2018-05-21T04:20:00.040Z-3aCfh-grvFIgOCvAAAf -- File Uploaded from Client
+2018-05-21T04:20:00.040Z-3aCfh-grvFIgOCvAAAfpublic\saved\IMG_1204-2.JPG2018-05-21T04:20:00.040Z -- Analysis Start
+2018-05-21T04:20:22.725Z -- Analysis Complete <br/>2018-05-21T04:20:22.725Z -- Turning Response into Speech
+2018-05-21T04:20:22.728Z-3aCfh-grvFIgOCvAAAf -- Response Sent to Client
+ 
+2018-05-21T04:21:27.669Z-3aCfh-grvFIgOCvAAAf -- File Uploaded from Client
+2018-05-21T04:21:27.669Z-3aCfh-grvFIgOCvAAAfpublic\saved\SCAN0006-6.JPG2018-05-21T04:21:27.669Z -- Analysis Start
+2018-05-21T04:21:33.424Z -- Analysis Complete <br/>2018-05-21T04:21:33.424Z -- Turning Response into Speech
+2018-05-21T04:21:33.424Z-3aCfh-grvFIgOCvAAAf -- Response Sent to Client
+ 
+2018-05-21T04:24:20.819ZPHzIZyqxTO8JANXdAAAg -- Client Joined
+2018-05-21T04:24:25.462ZPHzIZyqxTO8JANXdAAAg -- File Uploaded from Client
+2018-05-21T04:24:25.462ZPHzIZyqxTO8JANXdAAAgpublic\saved\SCAN0006-7.JPG2018-05-21T04:24:25.462Z -- Analysis Start
+2018-05-21T04:24:32.780Z -- Analysis Complete <br/>2018-05-21T04:24:32.780Z -- Turning Response into Speech
+2018-05-21T04:24:32.780ZPHzIZyqxTO8JANXdAAAg -- Response Sent to Client
+ 
+2018-05-21T04:24:35.093ZPHzIZyqxTO8JANXdAAAg -- File Uploaded from Client
+2018-05-21T04:24:35.093ZPHzIZyqxTO8JANXdAAAgpublic\saved\SCAN0007-34.JPG2018-05-21T04:24:35.094Z -- Analysis Start
+2018-05-21T04:24:53.117Z -- Analysis Complete <br/>2018-05-21T04:24:53.117Z -- Turning Response into Speech
+2018-05-21T04:24:53.119ZPHzIZyqxTO8JANXdAAAg -- Response Sent to Client
+ 
+2018-05-21T04:26:28.935ZFltf5B2_EONqqaJXAAAh -- Client Joined
+2018-05-21T04:26:31.579ZFltf5B2_EONqqaJXAAAh -- File Uploaded from Client
+2018-05-21T04:26:31.579ZFltf5B2_EONqqaJXAAAhpublic\saved\SCAN0007-35.JPG2018-05-21T04:26:31.579Z -- Analysis Start
+2018-05-21T04:26:45.118Z -- Analysis Complete <br/>2018-05-21T04:26:45.118Z -- Turning Response into Speech
+2018-05-21T04:26:45.119ZFltf5B2_EONqqaJXAAAh -- Response Sent to Client
+ 
+2018-05-21T04:26:47.852ZFltf5B2_EONqqaJXAAAh -- File Uploaded from Client
+2018-05-21T04:26:47.852ZFltf5B2_EONqqaJXAAAhpublic\saved\SCAN0006-8.JPG2018-05-21T04:26:47.853Z -- Analysis Start
+2018-05-21T04:26:55.417Z -- Analysis Complete <br/>2018-05-21T04:26:55.417Z -- Turning Response into Speech
+2018-05-21T04:26:55.418ZFltf5B2_EONqqaJXAAAh -- Response Sent to Client
+ 
+2018-05-21T04:28:09.062ZFltf5B2_EONqqaJXAAAh -- File Uploaded from Client
+2018-05-21T04:28:09.062ZFltf5B2_EONqqaJXAAAhpublic\saved\1024px-Famous_Germans_collage_2.jpg2018-05-21T04:28:09.062Z -- Analysis Start
+2018-05-21T04:28:17.429Z -- Analysis Complete <br/>2018-05-21T04:28:17.429Z -- Turning Response into Speech
+2018-05-21T04:28:17.431ZFltf5B2_EONqqaJXAAAh -- Response Sent to Client
+ 
+2018-05-21T04:32:47.145ZwV3CXnZPcBx2W9GlAAAi -- Client Joined
+2018-05-21T04:32:53.514ZwV3CXnZPcBx2W9GlAAAi -- File Uploaded from Client
+2018-05-21T04:32:53.514ZwV3CXnZPcBx2W9GlAAAipublic\saved\SCAN0007-36.JPG2018-05-21T04:32:53.514Z -- Analysis Start
+2018-05-21T04:33:08.214Z -- Analysis Complete <br/>2018-05-21T04:33:08.214Z -- Turning Response into Speech
+2018-05-21T04:33:08.215ZwV3CXnZPcBx2W9GlAAAi -- Response Sent to Client
+ 
+2018-05-21T04:36:53.653ZqSYepf1mPOp5Uw6hAAAj -- Client Joined
+2018-05-21T04:36:56.868ZqSYepf1mPOp5Uw6hAAAj -- File Uploaded from Client
+2018-05-21T04:36:56.868ZqSYepf1mPOp5Uw6hAAAjpublic\saved\SCAN0007-37.JPG2018-05-21T04:36:56.868Z -- Analysis Start
+2018-05-21T04:37:15.126Z -- Analysis Complete <br/>2018-05-21T04:37:15.126Z -- Turning Response into Speech
+2018-05-21T04:37:15.127ZqSYepf1mPOp5Uw6hAAAj -- Response Sent to Client
+ 
+2018-05-21T04:37:55.389ZqSYepf1mPOp5Uw6hAAAj -- File Uploaded from Client
+2018-05-21T04:37:55.389ZqSYepf1mPOp5Uw6hAAAjpublic\saved\Twins-fraternal-identical-180.jpg2018-05-21T04:37:55.389Z -- Analysis Start
+2018-05-21T04:37:56.935Z -- Analysis Complete <br/>2018-05-21T04:37:56.935Z -- Turning Response into Speech
+2018-05-21T04:37:56.936ZqSYepf1mPOp5Uw6hAAAj -- Response Sent to Client
+ 
+2018-05-21T04:38:54.291ZAK2rzk7mT71aSetvAAAk -- Client Joined
+2018-05-21T04:38:57.392ZAK2rzk7mT71aSetvAAAk -- File Uploaded from Client
+2018-05-21T04:38:57.392ZAK2rzk7mT71aSetvAAAkpublic\saved\Twins-fraternal-identical-180-0.jpg2018-05-21T04:38:57.392Z -- Analysis Start
+2018-05-21T04:38:58.642Z -- Analysis Complete <br/>2018-05-21T04:38:58.642Z -- Turning Response into Speech
+2018-05-21T04:38:58.643ZAK2rzk7mT71aSetvAAAk -- Response Sent to Client
+ 
+2018-05-21T04:39:20.584ZAK2rzk7mT71aSetvAAAk -- File Uploaded from Client
+2018-05-21T04:39:20.584ZAK2rzk7mT71aSetvAAAkpublic\saved\SCAN0007-38.JPG2018-05-21T04:39:20.584Z -- Analysis Start
+2018-05-21T04:39:35.457Z -- Analysis Complete <br/>2018-05-21T04:39:35.457Z -- Turning Response into Speech
+2018-05-21T04:39:35.458ZAK2rzk7mT71aSetvAAAk -- Response Sent to Client
+ 
+2018-05-21T04:39:45.086ZAK2rzk7mT71aSetvAAAk -- File Uploaded from Client
+2018-05-21T04:39:45.086ZAK2rzk7mT71aSetvAAAkpublic\saved\Twins-fraternal-identical-180-1.jpg2018-05-21T04:39:45.086Z -- Analysis Start
+2018-05-21T04:39:47.396Z -- Analysis Complete <br/>2018-05-21T04:39:47.396Z -- Turning Response into Speech
+2018-05-21T04:39:47.398ZAK2rzk7mT71aSetvAAAk -- Response Sent to Client
+ 
+2018-05-21T04:43:25.693ZZCMhGtmomnE_X-yvAAAl -- Client Joined
+2018-05-21T04:43:28.564ZZCMhGtmomnE_X-yvAAAl -- File Uploaded from Client
+2018-05-21T04:43:28.564ZZCMhGtmomnE_X-yvAAAlpublic\saved\Twins-fraternal-identical-180-2.jpg2018-05-21T04:43:28.565Z -- Analysis Start
+2018-05-21T04:43:35.285Z -- Analysis Complete <br/>2018-05-21T04:43:35.285Z -- Turning Response into Speech
+2018-05-21T04:43:35.288ZZCMhGtmomnE_X-yvAAAl -- Response Sent to Client
+ 
+2018-05-21T04:50:21.083Z6qUftwJPPrTxXG2jAAAm -- Client Joined
+2018-05-21T04:50:24.279Z6qUftwJPPrTxXG2jAAAm -- File Uploaded from Client
+2018-05-21T04:50:24.279Z6qUftwJPPrTxXG2jAAAmpublic\saved\SCAN0007-39.JPG2018-05-21T04:50:24.279Z -- Analysis Start
+2018-05-21T04:50:39.144Z -- Analysis Complete <br/>2018-05-21T04:50:39.144Z -- Turning Response into Speech
+2018-05-21T04:50:39.145Z6qUftwJPPrTxXG2jAAAm -- Response Sent to Client
+ 
+2018-05-21T04:50:45.928Z6qUftwJPPrTxXG2jAAAm -- File Uploaded from Client
+2018-05-21T04:50:45.928Z6qUftwJPPrTxXG2jAAAmpublic\saved\Twins-fraternal-identical-180-3.jpg2018-05-21T04:50:45.928Z -- Analysis Start
+2018-05-21T04:50:47.288Z -- Analysis Complete <br/>2018-05-21T04:50:47.289Z -- Turning Response into Speech
+2018-05-21T04:50:47.289Z6qUftwJPPrTxXG2jAAAm -- Response Sent to Client
+ 
+2018-05-21T04:52:04.373ZdStTskQjrwj7oG4wAAAn -- Client Joined
+2018-05-21T04:52:09.540ZdStTskQjrwj7oG4wAAAn -- File Uploaded from Client
+2018-05-21T04:52:09.540ZdStTskQjrwj7oG4wAAAnpublic\saved\SCAN0007-40.JPG2018-05-21T04:52:09.540Z -- Analysis Start
+2018-05-21T04:52:24.914Z -- Analysis Complete <br/>2018-05-21T04:52:24.914Z -- Turning Response into Speech
+2018-05-21T04:52:24.916ZdStTskQjrwj7oG4wAAAn -- Response Sent to Client
+ 
+2018-05-21T04:52:28.498ZdStTskQjrwj7oG4wAAAn -- File Uploaded from Client
+2018-05-21T04:52:28.498ZdStTskQjrwj7oG4wAAAnpublic\saved\Twins-fraternal-identical-180-4.jpg2018-05-21T04:52:28.498Z -- Analysis Start
+2018-05-21T04:52:29.779Z -- Analysis Complete <br/>2018-05-21T04:52:29.779Z -- Turning Response into Speech
+2018-05-21T04:52:29.780ZdStTskQjrwj7oG4wAAAn -- Response Sent to Client
+ 
+2018-05-21T04:52:49.976ZydFf1JCnALpleLzfAAAo -- Client Joined
+2018-05-21T04:52:52.660ZydFf1JCnALpleLzfAAAo -- File Uploaded from Client
+2018-05-21T04:52:52.660ZydFf1JCnALpleLzfAAAopublic\saved\Twins-fraternal-identical-180-5.jpg2018-05-21T04:52:52.660Z -- Analysis Start
+2018-05-21T04:52:53.965Z -- Analysis Complete <br/>2018-05-21T04:52:53.966Z -- Turning Response into Speech
+2018-05-21T04:52:53.966ZydFf1JCnALpleLzfAAAo -- Response Sent to Client
+ 
+2018-05-21T04:53:44.862ZB6nwNYtD7n2lBxYvAAAp -- Client Joined
+2018-05-21T04:53:47.484ZB6nwNYtD7n2lBxYvAAAp -- File Uploaded from Client
+2018-05-21T04:53:47.484ZB6nwNYtD7n2lBxYvAAAppublic\saved\Twins-fraternal-identical-180-6.jpg2018-05-21T04:53:47.484Z -- Analysis Start
+2018-05-21T04:53:48.901Z -- Analysis Complete <br/>2018-05-21T04:53:48.901Z -- Turning Response into Speech
+2018-05-21T04:53:48.902ZB6nwNYtD7n2lBxYvAAAp -- Response Sent to Client
+ 
+2018-05-21T04:54:15.657ZVf4568-6wQL-5-rWAAAq -- Client Joined
+2018-05-21T04:54:17.754ZVf4568-6wQL-5-rWAAAq -- File Uploaded from Client
+2018-05-21T04:54:17.755ZVf4568-6wQL-5-rWAAAqpublic\saved\Twins-fraternal-identical-180-7.jpg2018-05-21T04:54:17.755Z -- Analysis Start
+2018-05-21T04:54:19.040Z -- Analysis Complete <br/>2018-05-21T04:54:19.040Z -- Turning Response into Speech
+2018-05-21T04:54:19.041ZVf4568-6wQL-5-rWAAAq -- Response Sent to Client
+ 
+2018-05-21T04:57:38.579ZKB5SQrmtfHEnGP50AAAr -- Client Joined
+2018-05-21T04:58:03.065ZtT5oXTEe4tm91c-EAAAs -- Client Joined
+2018-05-21T04:58:04.104Z3IBYG6hh3UjPbVfuAAAt -- Client Joined
+2018-05-21T04:58:36.825ZIXVoHpgkpoMYX9mGAAAu -- Client Joined
+2018-05-21T04:59:15.295Zk6ZJUSrt79tV2zNVAAAv -- Client Joined
+2019-01-15T11:15:42.139ZrhPFezjdbeiU6fT4AAAA -- Client Joined
+2019-01-15T11:16:12.904ZrhPFezjdbeiU6fT4AAAA -- Error in File Upload
+2019-01-15T11:16:26.033ZrhPFezjdbeiU6fT4AAAA -- Error in File Upload
+2019-01-15T11:16:47.809ZrhPFezjdbeiU6fT4AAAA -- Error in File Upload
